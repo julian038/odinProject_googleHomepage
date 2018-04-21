@@ -5,3 +5,39 @@ body {
     color: #333;
     font-size: 13px;
 }
+
+div #content {
+    height: 100%;
+}
+
+div #logo {
+    margin-top: 140px;
+    text-align: center;
+    height: 120px;
+}
+
+div #navbar {
+    height: 40px;
+    line-height: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+
+div #navbar a {
+    padding: 10px;
+    text-decoration: none;
+    color: #222;
+}
+
+div #navbar a:hover {
+    text-decoration: underline;
+}
+
+div #navbar a img {
+    vertical-align: middle;
+}
+
+
