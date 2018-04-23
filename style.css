@@ -40,4 +40,16 @@ div #navbar a img {
     vertical-align: middle;
 }
 
+.ctr {
+    margin: auto 0;
+}
+
+div #searchbar {
+    width: 480px;
+    margin: 0 auto;
+}
+
+input {
+    width: 480px;
+}
 
